@@ -2,11 +2,13 @@
 Group 19
 
 **Problem statement:**
+
 Spotlight is an existing tool used in government to perform checks on grant applicants. £40 billion is spent annually on General Grants, so it's crucial that awards are made as effectively and efficiently as possible. 
 
 The current tool requires manual checking of Excel downloads, which is time-consuming and resource-intensive. 
 
-**Our solution**
+**Our solution:**
+
 Using Gen AI, we have created a solution to improve decision-making efficiency and improve fraud and risk management capabilities.
 
 1. Time savings - a summary narrative is presented on screen, removing the need for downloading risk profiles in Excel.
