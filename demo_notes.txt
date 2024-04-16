@@ -1,5 +1,0 @@
-Points we want to hit
-
-Time savings: summary narrative removing Excel element strips out time spent downloading and manually reviewing company information
-Safer checks: enrichment from 
-User control: interactive element for user, greater control and confidence
