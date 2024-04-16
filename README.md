@@ -4,20 +4,13 @@ Group 19
 **Problem statement:**
 Spotlight is an existing tool used in government to perform checks on grant applicants. £40 billion is spent annually on General Grants, so it's crucial that awards are made as effectively and efficiently as possible. 
 
-The exisiting tool still requires manual checking. Users have to 
+The current tool requires manual checking of Excel downloads, which is time-consuming and resource-intensive. 
 
-• Uses information from public and commercial datasets to identify financial health of an organisation, identifies who the key individuals are in an organisation and any historic funding organisations have had
+**Our solution**
+Using Gen AI, we have created a solution to improve decision-making efficiency and improve fraud and risk management capabilities.
 
+1. Time savings - a summary narrative is presented on screen, removing the need for downloading risk profiles in Excel.
+2. Safer checks - risk profiles are enriched with web data, including latest news reports.
+3. User control - an interactive assistant, giving the user greater control and confidence in their assessments.
 
-Time savings: summary narrative removing Excel element strips out time spent downloading and manually reviewing company information
-Safer checks: enrichment from 
-User control: interactive element for user, greater control and confidence
-
-
-
-
-
-
-Government spends over £40 billion annually on General Grants. We want to assure that awards are made as effectively and efficiently as possible.
-To enable this we designed, built and delivered a due diligence tool for use in government that integrates lots of data sets.
-We want your help to improve it!
+We estimate that our solution will leverage Gen AI to reduce hours of manual checking to mere minutes, while maintaining the integrity of fraud checks. The solution integrates machine capabilities, while preserving human experience and contexual knowledge. 
